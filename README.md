@@ -55,6 +55,6 @@
 
 21. Tambahkan juga untuk mikhmon mikhmon/sesuaikan -> pilih domain -> Type service HTTP -> URL <IP-SERVER>:8001
 
-22. Akses panelnya menggunakan https://panel.<DOMAIN>/aapanel
+22. Akses panelnya menggunakan https://panel.DOMAIN/aapanel
 
 23. Akses mikhmon juga
