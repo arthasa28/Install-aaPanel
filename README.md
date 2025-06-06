@@ -53,7 +53,7 @@
 
 20. Isi Subdomain panel/aapanel -> pilih domain -> Type service HTTP -> URL 127.0.0.1:8090
 
-21. Tambahkan juga untuk mikhmon mikhmon/sesuaikan -> pilih domain -> Type service HTTP -> URL <IP-SERVER>:8001
+21. Tambahkan juga untuk mikhmon mikhmon/sesuaikan -> pilih domain -> Type service HTTP -> URL IP-SERVER:8001
 
 22. Akses panelnya menggunakan https://panel.DOMAIN/aapanel
 
