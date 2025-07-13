@@ -14,8 +14,8 @@
 4. Do you want to install aaPanel to the /www directory now?(y/n): ( y  )
 
 5. Ganti dan matikan service di Bawah ini : bt
-	- mengganti username	: arthasa ( 6 )
-	- mengganti password	: 081212 ( 5 )
+	- mengganti username	: admin ( 6 )
+	- mengganti password	: admin123 ( 5 )
 	- mengganti port	: 8090 ( 8 )
 	- mengganti security entrance ( 28 )
 	- mematikan panel SSL	: Off ( 27 )
